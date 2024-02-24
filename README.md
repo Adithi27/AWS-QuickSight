@@ -1,5 +1,7 @@
 # Amazon Quicksight
+Amazon QuickSight is a cloud-based business intelligence (BI) service by Amazon Web Services (AWS) that enables users to visualize and analyze data quickly. With QuickSight, you can easily create interactive dashboards, perform ad-hoc analysis, and derive insights from various data sources. It offers features like data visualization, machine learning-powered analytics, and integration with AWS services like Amazon S3, RDS, and Redshift.
 
+# STEPS
 1.**Download the large dataset For Eg. 50,000 best selling Amazon Products**
 Access the extensive dataset featuring top-rated Amazon products, comprising around 50,000 best-selling items.
 
