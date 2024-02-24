@@ -1,3 +1,4 @@
+![Architecture Image](https://github.com/Adithi27/Aws-projects/assets/72067867/e6ca4362-e4de-4785-b4eb-cdb7403c7f9b)
 # Amazon Quicksight
 Amazon QuickSight is a cloud-based business intelligence (BI) service by Amazon Web Services (AWS) that enables users to visualize and analyze data quickly. With QuickSight, you can easily create interactive dashboards, perform ad-hoc analysis, and derive insights from various data sources. It offers features like data visualization, machine learning-powered analytics, and integration with AWS services like Amazon S3, RDS, and Redshift.
 
